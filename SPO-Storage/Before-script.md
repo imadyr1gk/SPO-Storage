@@ -15,6 +15,4 @@ Avant d'exécuter le script `SPO-Storage.ps1`, vous devez :
 3. **Se connecter au site en remplaçant tenant par le nom de votre tenant :
     ```powershell
    Connect-SPOService -Url https://tenant-admin.sharepoint.com
-    ``
-
-    
+    ```
